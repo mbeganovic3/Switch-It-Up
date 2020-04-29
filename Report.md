@@ -31,5 +31,5 @@ Originally, our group planned to make an audio-propagated virtual reality game f
 
 We plan on continuing to fix our games after the deadline for this project - we made many games so there are a few bugs in some of the games that we plan on fixing in the future. We would like to continue to add more games to this website so that our intended audience can have a multitude of games to select from, and ideally, we want to collaborate with other groups in the class who made swtich-accessible game and combine our games to make a large collection. 
 
-Group Members: Halie Chmura, Meris Beganovic, Bea Manaligod
+Group Members: Meris Beganovic, Bea Manaligod, Halie Chmura
 
