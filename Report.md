@@ -1,7 +1,3 @@
-4 May noon: Projects are due. Each repo should include a Report.md which will constitute your final report. 
-Your report should include a description of your project, its intended audience, the technologies, frameworks, 
-libraries used, how to build and deploy it, problems encountered and future work.
-
 **Final Report**
 -----------------
 
@@ -9,9 +5,9 @@ libraries used, how to build and deploy it, problems encountered and future work
 For our COMP580 final project at UNC, we decided to make a collection of switch-accessible games. We made several popular games switch-accessible by allowing the user to play with only two buttons and choose between a maximum of 4 choices for the majority of the games. The use of two-buttons is a common input device for individuals with motor or cognitive disabilities to access computers, so we wanted to turn games that involve either the use of multiple buttons or swiping on a tablet into games that can be played using only two buttons. 
 
 The members in our group individually worked on the collection of games, and we combined them together to have 10 games total. The breakdown of who made which games is: 
-**Meris** - PacMan, Breakout, Bloxy, and Astray
-**Bea** - Mancala, 2048, and Rubik's Cube
-**Halie** - Pong, DoodleJump, and Connect4
+- **Meris** - PacMan, Breakout, Bloxy, and Astray
+- **Bea** - Mancala, 2048, and Rubik's Cube
+- **Halie** - Pong, DoodleJump, and Connect4
 
 **Intended Audience**
 Our intended audience is people with either motor or cognitive disabilities that make accessing a computer difficult. Many people with these types of disabilities can find it either extremely difficult or overwhelming to play games that require the use of more than two buttons or go too fast. We made all of our games accessible with only two buttons, and we made the games that have moving components pause so that the user has time to make a choice. 
