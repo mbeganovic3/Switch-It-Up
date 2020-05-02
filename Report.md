@@ -14,7 +14,9 @@ Our intended audience is people with either motor or cognitive disabilities that
 
 **Technology, frameworks, and libraries used**
 - CSS, HTML, & JavaScript
-- Brackets, Github Desktop
+- React/Redux (for Rubix cube)
+- Three.js, jQuery, WebGL
+- Brackets, Visual Studio Code, Github Desktop
 - Many of the games were expanded upon using outside code sources. To view the original code source for a game, check the ReadMe.md of that game's repository. 
 
 **How to access project**
